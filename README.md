@@ -8,7 +8,7 @@ Include screenshots or images of the cloned component from the reference site he
 
 ### Desktop Layout
 
-![Desktop Layout](/screenshots/desktopview.png)
+![Desktop Layout](/screenshots/destopview.png)
 
 ### Mobile Layout
 
