@@ -8,11 +8,11 @@ Include screenshots or images of the cloned component from the reference site he
 
 ### Desktop Layout
 
-![Desktop Layout](https://drive.google.com/file/d/1W1KRLC1tha3mbHJQTd5qDw4ANPNtuRPo/view?usp=sharing)
+![Desktop Layout](/screenshots/desktopview.png)
 
 ### Mobile Layout
 
-![Mobile Layout](https://drive.google.com/file/d/1LhqPmAFwccyfQ1JAgh22xVioNWkFE4Rb/view?usp=sharing)
+![Mobile Layout](/screenshots/mobileview.jpg)
 
 ## Deployment
 
